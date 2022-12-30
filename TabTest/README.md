@@ -87,6 +87,6 @@ mediator.isSmoothScroll();
 
 Copyright (C) 2021 Ahmad Hamwi
 
-This software includes the work that is distributed in the Apache License 2.0.
+This software includes the work that is distributed in the [Apache License 2.0.](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-このソフトウェアは、 Apache 2.0ライセンスで配布されている製作物が含まれています。
+このソフトウェアは、 [Apache 2.0ライセンス](https://www.apache.org/licenses/LICENSE-2.0.txt) で配布されている製作物が含まれています。
